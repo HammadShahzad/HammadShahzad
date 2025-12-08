@@ -42,25 +42,18 @@ const hammad = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 2025 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HammadShahzad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| 🔥 **2025 Stats** | 📈 **Metrics** |
-|:---:|:---:|
-| **1,538+** Total Contributions | **1.4k+** Commits |
-| **14** Day Current Streak | **A+** Grade |
-| **10** Public Repositories | **6** Projects Shipped in Q4 |
+| 🏆 Achievement | 📊 Stat | 🎯 Details |
+|:---:|:---:|:---:|
+| 🥇 **Super Committer** | **1,538+** | Total contributions this year |
+| 🔥 **Streak Master** | **14 days** | Current coding streak |
+| 🚀 **Ship Machine** | **6 products** | Shipped in Q4 2025 sprint |
+| ⚡ **Velocity King** | **60 days** | Intensive development sprint |
+| 💻 **TypeScript Pro** | **95%** | Primary language across projects |
+| 🏗️ **Full Stack** | **8 repos** | Active public repositories |
 
 </div>
 

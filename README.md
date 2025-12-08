@@ -51,7 +51,7 @@ const hammad = {
 </a>
 
 <a href="https://github.com/HammadShahzad">
-  <img src="https://streak-stats.demolab.com/?user=HammadShahzad&theme=algolia" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadShahzad&theme=algolia&hide_border=true" alt="GitHub Streak" height="180"/>
 </a>
 
 </div>
@@ -167,17 +167,6 @@ const hammad = {
 
 </div>
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 

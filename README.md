@@ -42,6 +42,16 @@ const hammad = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HammadShahzad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,7 +60,7 @@ const hammad = {
 |:---:|:---:|
 | **1,538+** Total Contributions | **1.4k+** Commits |
 | **14** Day Current Streak | **A+** Grade |
-| **8** Public Repositories | **6** Projects Shipped in Q4 |
+| **10** Public Repositories | **6** Projects Shipped in Q4 |
 
 </div>
 

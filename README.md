@@ -58,9 +58,14 @@ const hammad = {
 
 <div align="center">
 
-<a href="https://github.com/HammadShahzad">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HammadShahzad&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" height="180"/>
-</a>
+### 💻 Languages I Ship With
+
+```text
+TypeScript   ███████████████████████░░   95% (6 projects)
+JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   15% (2 projects)
+PHP          ██░░░░░░░░░░░░░░░░░░░░░░░    8% (1 project)
+Python       █░░░░░░░░░░░░░░░░░░░░░░░░    5% (automation)
+```
 
 </div>
 

@@ -2,11 +2,13 @@
 
 # Hey, I'm Hammad Shahzad 👋
 
-### Full Stack Developer | Building High-Performance Applications
+### Founder & Builder | AI Automation | Full Stack Development
+
+*Creating systems that reduce manual work, increase sales performance, and deliver measurable outcomes*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadshahzad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hammadshahzad.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammad@example.com)
+[![Innovation With Pixels](https://img.shields.io/badge/Innovation_With_Pixels-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://innovationwithpixels.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammad@innovationwithpixels.com)
 
 </div>
 
@@ -16,20 +18,27 @@
 
 ```typescript
 const hammad = {
-    title: "Full Stack Developer",
-    location: "Building the future, one commit at a time",
-    currentFocus: "Shipping production-ready applications at velocity",
+    role: "Founder & Builder",
+    focus: ["AI Automation", "Chatbots", "Web Development", "CRM Integration"],
+    
+    brands: {
+        "Innovation With Pixels": "Digital Agency & Automation Studio",
+        "MotorIQ Pro": "Automotive Tech Solutions", 
+        "SkillMentor.pk": "Learning Platform"
+    },
+    
+    philosophy: "Build systems that solve real business problems",
     
     recentSprint: {
         duration: "60 days",
-        period: "Q4 2025",
-        shipped: ["3loop.net", "TTG Portal", "Florida Marine Hub", "IWP-CRM"],
-        contributions: "1,363+"
+        period: "Q4 2025", 
+        contributions: "1,363+",
+        shipped: 6
     }
 };
 ```
 
-> **Software Engineer focused on shipping.** Recently completed a **60-day intensive development sprint** building production applications across multiple domains—from real-time communication platforms to enterprise CRMs.
+> I develop systems that solve **real business problems**—automated lead capture, voice agents, WhatsApp & Discord chatbots, Google Maps data workflows, Shopify/WordPress builds, uptime monitoring, and data-driven crypto tools. My goal is to create systems that **reduce manual work** and bring **measurable outcomes** for businesses.
 
 ---
 
@@ -37,7 +46,7 @@ const hammad = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Hammad's GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadShahzad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
 
@@ -51,57 +60,98 @@ const hammad = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Botpress](https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi_AI-5046E5?style=for-the-badge&logo=voiceflow&logoColor=white)
 
 ### Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### CRM & Marketing
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=for-the-badge&logo=hubspot&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Data & Scraping
+![Apify](https://img.shields.io/badge/Apify-00AAFF?style=for-the-badge&logo=apify&logoColor=white)
+![PhantomBuster](https://img.shields.io/badge/PhantomBuster-6366F1?style=for-the-badge&logo=ghost&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+### Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Q4 2025 Sprint Highlights
+## 🏢 My Brands
 
-During my **60-day intensive development sprint**, I shipped multiple production applications:
+<div align="center">
+
+| Brand | Focus |
+|-------|-------|
+| 🚀 **Innovation With Pixels** | Digital Agency & Automation Studio |
+| 🚗 **MotorIQ Pro** | Automotive Tech Solutions |
+| 📚 **SkillMentor.pk** | Learning & Training Platform |
+
+</div>
+
+---
+
+## 💼 What I Build
+
+<div align="center">
+
+| Solution | Description |
+|----------|-------------|
+| 🤖 **AI Voice Agents** | Vapi, Twilio-powered voice bots for sales & support |
+| 💬 **Chatbots** | WhatsApp, Discord, and web chatbots with custom GPTs |
+| 🔄 **Automation Workflows** | n8n, Make.com pipelines for lead capture & CRM sync |
+| 🗺️ **Data Extraction** | Google Maps scrapers, PhantomBuster, Apify actors |
+| 🛒 **E-commerce** | Shopify & WordPress builds with automation |
+| 📊 **CRM Integration** | GoHighLevel, HubSpot custom integrations |
+| 📈 **Crypto Tools** | Data-driven trading and monitoring systems |
+
+</div>
+
+---
+
+## 🏆 Q4 2025 Sprint — 60 Days, 6 Products Shipped
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[3loop.net](https://3loop-net-f.vercel.app)** | WhatsApp-style project communication platform with real-time chat, voice messages & file sharing | Next.js, Express, MongoDB, Socket.io |
-| **[TTG Portal](https://ttgportal.vercel.app)** | Enterprise support ticket management system with email integration | Next.js, Firebase, TypeScript |
-| **[Florida Marine Hub](https://florida-marine-hub.vercel.app)** | Marine services directory with 2,500+ listings, Stripe payments & reviews | Next.js, MongoDB, Stripe |
+| **[3loop.net](https://3loop-net-f.vercel.app)** | WhatsApp-style project communication platform | Next.js, Express, MongoDB, Socket.io |
+| **[TTG Portal](https://ttgportal.vercel.app)** | Enterprise support ticket system with email integration | Next.js, Firebase, TypeScript |
+| **[Florida Marine Hub](https://florida-marine-hub.vercel.app)** | Marine services directory with 2,500+ listings | Next.js, MongoDB, Stripe |
 | **[IWP-CRM](https://iwp-crm.vercel.app)** | Employee time tracking & encrypted credential vault | React, Vite, Firebase |
 | **[Instantly Replica](https://instantly-replica.vercel.app)** | Email outreach automation tool | Next.js, TypeScript |
 | **Car Offer Form** | WordPress plugin with multi-step forms & API integrations | PHP, JavaScript |
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -111,20 +161,21 @@ During my **60-day intensive development sprint**, I shipped multiple production
 
 ---
 
-## 🎯 What I'm Building
+## 🎯 Currently
 
-- 🔭 Currently working on **scaling 3loop.net** for enterprise teams
-- 🌱 Deep diving into **AI/ML integrations** for automation
-- 💬 Ask me about **Next.js, Real-time applications, or SaaS architecture**
-- ⚡ Fun fact: **1,363 contributions** in 2025 — consistency is the only cheat code
+- 🔭 Building **AI-powered automation systems** for businesses
+- 🤖 Developing **voice agents & chatbots** that convert
+- 🌱 Scaling **Innovation With Pixels** and training teams
+- 💬 Open to collaborations on **automation & AI projects**
 
 ---
 
 <div align="center">
 
-### 💡 "Ship fast. Ship often. Let the code speak for itself."
+### 💡 "Build systems that solve real problems. Let the results speak."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HammadShahzad&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
-</div>
+**1,363+ contributions** in 2025 — Shipping is the only metric that matters.
 
+</div>

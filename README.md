@@ -46,13 +46,11 @@ const hammad = {
 
 <div align="center">
 
-<a href="https://github.com/HammadShahzad">
-  <img src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-</a>
-
-<a href="https://github.com/HammadShahzad">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadShahzad&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="180"/>
-</a>
+| 🔥 **2025 Stats** | 📈 **Metrics** |
+|:---:|:---:|
+| **1,538+** Total Contributions | **1.4k+** Commits |
+| **14** Day Current Streak | **A+** Grade |
+| **8** Public Repositories | **6** Projects Shipped in Q4 |
 
 </div>
 

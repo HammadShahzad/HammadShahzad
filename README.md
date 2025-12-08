@@ -46,15 +46,21 @@ const hammad = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
+<a href="https://github.com/HammadShahzad">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HammadShahzad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadShahzad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+<a href="https://github.com/HammadShahzad">
+  <img src="https://streak-stats.demolab.com/?user=HammadShahzad&theme=algolia" alt="GitHub Streak" height="180"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadShahzad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+<a href="https://github.com/HammadShahzad">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HammadShahzad&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" height="180"/>
+</a>
 
 </div>
 
@@ -155,7 +161,21 @@ const hammad = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadShahzad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)
+<a href="https://github.com/HammadShahzad">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadShahzad&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HammadShahzad/HammadShahzad/output/github-snake.svg" />
+</picture>
 
 </div>
 

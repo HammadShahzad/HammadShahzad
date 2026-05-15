@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/HammadShahzad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PHP;AI+voice+agents+%C2%B7+chatbots+%C2%B7+CRMs+%C2%B7+SaaS+%C2%B7+WordPress+plugins;Founder+%40+Innovation+With+Pixels+%C2%B7+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;100%2B+products+shipped+%C2%B7+open+to+freelance+%26+partnerships." alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PHP;AI+SEO+%C2%B7+invoicing+SaaS+%C2%B7+hiring+%C2%B7+CRMs+%C2%B7+WordPress+plugins;Founder+%40+Innovation+With+Pixels+%C2%B7+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." alt="Animated tagline" />
 </a>
 
 [![Website](https://img.shields.io/badge/Website-hammadshahzad.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hammadshahzad.com)
@@ -23,7 +23,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=HammadShahzad&color=58A6FF&style=flat-square&label=Profile+Views)
 ![Open to work](https://img.shields.io/badge/Open_to_work-Yes-3FB950?style=flat-square)
 ![Based in](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-1F6FEB?style=flat-square)
-![Years coding](https://img.shields.io/badge/Years_coding-7%2B-9333EA?style=flat-square)
 
 </div>
 
@@ -31,17 +30,17 @@
 
 ## ⚡ About
 
-I'm a **full-stack developer** and the **founder of [Innovation With Pixels](https://innovationwithpixels.com)** — a software studio out of Lahore that ships AI agents, CRMs, plugins, and SaaS for clients across Pakistan, the US, the UK, and the Gulf. I live in TypeScript, Next.js, and Postgres, and I treat AI as a tool — not a demo.
+I'm a **full-stack developer** and the **founder of [Innovation With Pixels](https://innovationwithpixels.com)** — a software studio out of Lahore that ships AI agents, SaaS, plugins, and internal tooling for clients across Pakistan, the US, the UK, and the Gulf.
 
-The work I'm proud of replaces manual processes with reliable systems: a hiring pipeline that turns 200 résumés into a shortlist by lunch, a Clover↔WooCommerce sync that keeps two ledgers honest, voice agents that actually book the meeting. **No "look what AI can do" — just shipped systems that make money or save time.**
+The work I'm proud of replaces manual processes with reliable systems: SEO content that researches itself and ships, invoicing that handles Stripe Connect across an entire customer base, hiring tools that triage 200 résumés into a shortlist by lunch. **No "look what AI can do" — just shipped systems that make money or save time.**
 
 ```ts
 const hammad = {
   role:     "Full-Stack Developer · Founder",
   basedIn:  "Lahore, Pakistan 🇵🇰",
   stack:    ["TypeScript", "Next.js 16", "React 19", "Node.js", "Postgres", "PHP"],
-  ai:       ["Claude", "GPT-4o/5", "Vapi", "Twilio", "n8n", "LangChain"],
-  ships:    ["AI agents", "CRMs", "SaaS", "WP plugins", "Shopify themes"],
+  ai:       ["Claude", "GPT-4o/5", "Gemini", "Perplexity", "Vapi", "n8n"],
+  shipping: ["SaaS", "AI agents", "WordPress plugins", "Shopify themes", "CRMs"],
   brands:   ["Innovation With Pixels", "SkillMentor.pk", "MotorIQ Pro"],
   motto:    "Shipping is the only metric that matters.",
 };
@@ -51,22 +50,46 @@ const hammad = {
 
 ## 🚀 Flagship Products
 
+> *Sourced from each project's actual README — what's shipped, what's running, what pays the bills.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Stackserp](https://seo-blog-saas.vercel.app)
-**AI SEO content platform** — multi-website SEO blog generator powered by Gemini + Perplexity. Generates ranking-ready posts at scale, manages multiple sites from one dashboard.
+### 🧠 [Stackserp](https://stackserp.com)
+**AI-powered SEO blog SaaS** — researches competitors with **Perplexity**, generates blog posts with **Gemini**, creates featured images, internally links + adds structured data, publishes to your site, posts to X & LinkedIn, pings **IndexNow** for instant Google discovery, and tracks rankings.
 
-`Next.js` · `TypeScript` · `Gemini` · `Perplexity API`
+`Next.js 15` · `TypeScript` · `Prisma + Postgres` · `Stripe` · `Gemini` · `Perplexity`
 
-🔗 [Live demo →](https://seo-blog-saas.vercel.app)
+🔗 [stackserp.com →](https://stackserp.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [SkillMentor Portal](https://skillmentor-portal.vercel.app)
-**Course portal & learning platform** — full marketing funnel, multi-instructor access, lead capture with CSV export, payment integration. Powers SkillMentor.pk.
+### 🧾 [InvoiceCave](https://invoicecave.com)
+**Invoicing & client-management SaaS** — multi-org, customers, line items, **5 invoice templates**, shareable public links, **Stripe Connect** payments, PDF, quotes/estimates, expenses, POs, **chart of accounts + journal entries**, automated reminders, late fees, referrals, Pro billing, AI MCP integrations.
+
+`Next.js 16` · `TypeScript` · `Prisma + Postgres` · `NextAuth` · `Stripe Connect` · `Maileroo`
+
+🔗 [invoicecave.com →](https://invoicecave.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [SkillMentor.pk](https://skillmentor.pk)
+**Pakistan's practical tech-training platform** — 6-week intensive courses, 2-month master tracks, 1-on-1 career advice. Active B2C education business serving the Pakistani market.
+
+`Next.js 15` · `TypeScript` · `Tailwind CSS`
+
+🔗 [skillmentor.pk →](https://skillmentor.pk)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [SkillMentor Portal](https://skillmentor-portal.vercel.app)
+**Course-portal & marketing-funnel engine** powering SkillMentor.pk — multi-instructor access, lead capture, CSV export, enrollment & funnel tracking.
 
 `Next.js` · `TypeScript` · `Firebase` · `Stripe`
 
@@ -78,19 +101,41 @@ const hammad = {
 <td width="50%" valign="top">
 
 ### 🛒 Clover ↔ WooCommerce Integration
-**Commercial WordPress plugin** — payment gateway, bi-directional inventory & order sync, webhooks, refunds. Production-deployed for Clover POS merchants.
+**Production WordPress plugin** — bi-directional sync of products, inventory, orders, customers, taxes, modifiers, discounts. Webhooks, conflict resolution, background queue with retry logic for high-volume merchants.
 
-`PHP` · `WordPress` · `WooCommerce` · `Clover API`
+`PHP 7.4+` · `WordPress 5.8+` · `WooCommerce 6.0+` · `Clover API`
 
-🔒 Closed-source · [Landing](https://cloverwoo-landing.vercel.app)
+🔒 Closed-source · commercial plugin
+
+</td>
+<td width="50%" valign="top">
+
+### 🎫 [TTG Portal](https://ttgportal.vercel.app)
+**Custom support-ticket system** — internal notes vs customer replies, automatic email notifications, time tracking, **PayPal billing links**, hourly + contract client management.
+
+`Next.js 15` · `TypeScript` · `Firebase Firestore` · `NextAuth` · `Resend`
+
+🔗 [Live demo →](https://ttgportal.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 ZeroFrictionHire
+**Talent-pool hiring platform** — post jobs, candidates apply with no signup, **AI CV parsing** (OpenAI / Claude), AI-driven candidate ranking against custom criteria, talent pool, bulk email campaigns, admin dashboard.
+
+`Next.js 14` · `TypeScript` · `MongoDB` · `NextAuth` · `OpenAI / Claude`
+
+🔒 Private build
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 [Hiring Admin](https://hiring-admin-zeta.vercel.app)
-**Internal hiring pipeline** for IWP — companion to my `indeed-candidate-screen` Claude skill. Triages 200+ applicants into STRONG / OK / WEAK / DISQUALIFIED.
+**Internal hiring pipeline for IWP** — companion to my `indeed-candidate-screen` Claude skill. Manages roles, candidates, audits, messages, events, interview scorecards. Two-step destructive-op confirmation.
 
-`Next.js` · `Neon Postgres` · `Drizzle` · `Claude API`
+`Next.js 16` · `TypeScript` · `Drizzle ORM` · `Neon Postgres` · `Tailwind 4`
 
 🔗 [Live demo →](https://hiring-admin-zeta.vercel.app)
 
@@ -99,44 +144,22 @@ const hammad = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 InvoiceCave
-**Invoicing & books SaaS** — multi-currency invoices, recurring billing, client portal, PDF exports. Built for service businesses that hate QuickBooks.
+### 💬 [3loop.net](https://3loop.net)
+**WhatsApp-style project communication** — dual auth (team / client password), real-time chat with **Socket.io**, voice messages, image tagging, threaded replies, polls, todos, view-only mode, file sharing via Backblaze B2, PWA support.
 
-`Next.js` · `TypeScript` · `Postgres` · `Stripe`
+`Next.js` · `Express` · `MongoDB` · `Socket.io` · `Backblaze B2` · `Framer Motion`
 
-🔒 Private build
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Claivra
-**Creative agency platform** — built for Vehicquire Creatives to manage briefs, deliverables, and client approvals in one place.
-
-`Next.js 16` · `TypeScript` · `Tailwind`
-
-🔒 Private build
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ AI Tasker for Claude Code
-**Task management for AI-powered dev** — designed for engineers driving Claude Code. Tracks features, bugs, and prompts across long-running agent sessions.
-
-`Next.js` · `TypeScript` · `Claude SDK`
-
-🔒 Private build
+🔗 [3loop.net →](https://3loop.net)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔌 WP-Toolkit
-**WordPress companion plugin** for the Claude Code `wp-toolkit` plugin — REST namespace `wp-toolkit/v1` + WP-CLI runner + auto-updates from GitHub releases.
+**WordPress companion plugin** for the Claude Code `wp-toolkit` plugin — REST namespace `/wp-toolkit/v1/*` covering posts, users, plugins, themes, options, media, DB, cache, cron, **Elementor CRUD**, optional WP-CLI wrapper, auto-updates from GitHub releases.
 
 `PHP` · `WordPress` · `REST API` · `WP-CLI`
 
-🔒 Private build
+🔒 Private — production-deployed
 
 </td>
 </tr>
@@ -144,43 +167,21 @@ const hammad = {
 <td width="50%" valign="top">
 
 ### 🗂️ [IWP-CRM](https://iwp-crm.vercel.app)
-**Internal CRM** for Innovation With Pixels — employee time tracking, encrypted credential vault, team activity feed.
+**Internal CRM for Innovation With Pixels** — Firebase auth with role-based access, time tracking with stats, **encrypted credential vault** (Web Crypto API), credential sharing with teams/individuals, CSV export, charts.
 
-`React` · `Vite` · `Firebase`
+`React 18` · `Vite` · `Firebase` · `Web Crypto API`
 
 🔗 [Live demo →](https://iwp-crm.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [3loop.net](https://3loop-net-f.vercel.app)
-**WhatsApp-style team comms** — real-time messaging for project teams with file sharing and threaded conversations.
+### 🔄 AllMediaSync
+**Slack ↔ ClickUp ↔ Dropbox automation** — auto-notifies Slack on ClickUp task completion and Dropbox uploads, custom slash commands (`/projects`, `/status`, `/sync`) for instant project status from chat.
 
-`Next.js` · `Express` · `MongoDB` · `Socket.io`
+`TypeScript` · `Slack API` · `ClickUp API` · `Dropbox API`
 
-🔗 [Live demo →](https://3loop-net-f.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎫 [TTG Portal](https://ttgportal.vercel.app)
-**Enterprise support ticket system** with full email pipeline, SLA tracking, and customer-facing portal.
-
-`Next.js` · `Firebase` · `TypeScript`
-
-🔗 [Live demo →](https://ttgportal.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### ✉️ [Instantly Replica](https://instantly-replica.vercel.app)
-**Cold email outreach automation** — sequences, deliverability tracking, mailbox warm-up. An Instantly.ai alternative.
-
-`Next.js` · `TypeScript` · `Postgres`
-
-🔗 [Live demo →](https://instantly-replica.vercel.app)
+🔒 Internal automation
 
 </td>
 </tr>
@@ -188,9 +189,9 @@ const hammad = {
 <td width="50%" valign="top">
 
 ### 🚗 [UploadYourCarPics.com](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
-**Multi-tenant car image upload** → Google Drive → GoHighLevel pipeline. White-label tool used by US auto dealerships.
+**Multi-tenant car-image upload** → Google Drive → GoHighLevel pipeline. White-label tool used by US auto dealerships to capture vehicle photos directly into their CRM.
 
-`Next.js` · `Drive API` · `GHL API`
+`Next.js` · `Drive API` · `GoHighLevel API`
 
 🔗 [Live demo →](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
 
@@ -198,9 +199,9 @@ const hammad = {
 <td width="50%" valign="top">
 
 ### 🧵 [Shahzad Cloth House](https://shahzad-cloth-house.vercel.app)
-**Heritage brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography.
+**Editorial heritage-brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography, brand storytelling.
 
-`Next.js 16` · `TypeScript` · `Tailwind`
+`Next.js 16` · `TypeScript` · `Tailwind CSS`
 
 🔗 [Live demo →](https://shahzad-cloth-house.vercel.app)
 
@@ -208,7 +209,7 @@ const hammad = {
 </tr>
 </table>
 
-> Most client work lives in private repos — these are the ones I can show. Ask about the rest: voice agents, GHL integrations, Shopify Horizon themes, scrapers, and 50+ shipped builds.
+> **Also shipped & in production:** Florida Marine Hub (2,500+ marine listings, tiered subscriptions $20–$200/mo), Dukan AI (Gemini-powered AI Studio app), Robin Todos (priority board on Neon), Portfolio Tracker (Claude Code-driven), 250-America-Birthday Shopify Horizon theme, Instantly Replica, Car Offer Form WP plugin, WhatsApp Voice Transcriber, IWP SEO Reports, UK Property Finance Calculators 2026 — and ~60 more in private repos.
 
 ---
 
@@ -222,15 +223,15 @@ const hammad = {
 
 ### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
 **Software studio**
-AI agents · CRMs · SaaS · WordPress · Shopify
+SaaS · AI agents · WordPress · Shopify · CRMs
 Lahore → Worldwide
 
 </td>
 <td align="center" width="33%">
 
-### 🎓 SkillMentor.pk
-**Learning platform**
-Courses · multi-instructor portal · marketing funnels
+### 🎓 [SkillMentor.pk](https://skillmentor.pk)
+**Tech training platform**
+Practical courses · 1-on-1 mentoring
 Pakistan-first, English-medium
 
 </td>
@@ -238,7 +239,7 @@ Pakistan-first, English-medium
 
 ### 🚗 MotorIQ Pro
 **Automotive tech**
-Inventory tools · car-image pipelines · dealer software
+Dealer tools · car-image pipelines · vehicle data
 US auto-dealer focus
 
 </td>
@@ -265,6 +266,8 @@ US auto-dealer focus
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1F1F1F?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-5046E5?style=for-the-badge&logo=voiceflow&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -319,7 +322,7 @@ US auto-dealer focus
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadShahzad&theme=tokyo-night&hide_border=true&area=true&custom_title=Hammad%27s%20Contribution%20Graph" alt="Activity graph" width="100%"/>
 </a>
 
-**4,200+ contributions in the past year** · 100+ products shipped · still building.
+**4,200+ contributions in the past year** · 70+ shipped products & internal tools · still building.
 
 </div>
 
@@ -341,10 +344,11 @@ US auto-dealer focus
 
 ## 🎯 Currently
 
-- 🔭 Building **AI voice agents** (Vapi + Twilio) for sales & support
-- 🚀 Scaling **Stackserp** — AI SEO content at scale
-- 🏗️ Productising **SkillMentor.pk** — Pakistan's next learning platform
-- 🌱 Hiring & training the **Innovation With Pixels** team
+- 🚀 Scaling **[Stackserp](https://stackserp.com)** — AI SEO content at scale
+- 🧾 Shipping **[InvoiceCave](https://invoicecave.com)** — Stripe-Connect invoicing for service businesses
+- 🎓 Productising **[SkillMentor.pk](https://skillmentor.pk)** — Pakistan's practical tech school
+- 🤖 Building **AI voice agents** (Vapi + Twilio) for sales & support
+- 🏗️ Hiring & training the **Innovation With Pixels** team
 - 💬 Open to **freelance · agency partnerships · long-term contracts**
 
 ---
@@ -368,9 +372,10 @@ US auto-dealer focus
 SEO keywords:
 Hammad Shahzad full-stack developer Lahore Pakistan, TypeScript developer Lahore,
 Next.js developer Pakistan, React developer hire, AI automation engineer,
-Vapi voice agent developer, Twilio integration, n8n automation expert,
-WordPress plugin developer, WooCommerce Clover integration, Shopify Horizon theme,
-GoHighLevel integration, Claude AI engineer, OpenAI integration, chatbot developer,
-SaaS developer Pakistan, freelance Next.js TypeScript, Innovation With Pixels,
-SkillMentor.pk, MotorIQ Pro, Stackserp, hiring automation, voice AI agent.
+Stackserp AI SEO blog, InvoiceCave invoicing SaaS, SkillMentor.pk training,
+Innovation With Pixels agency, Vapi voice agent developer, Twilio integration,
+n8n automation expert, WordPress plugin developer, WooCommerce Clover integration,
+Shopify Horizon theme, GoHighLevel integration, Claude AI engineer,
+OpenAI integration, chatbot developer, SaaS developer Pakistan,
+freelance Next.js TypeScript, hiring automation, voice AI agent, MotorIQ Pro.
 -->

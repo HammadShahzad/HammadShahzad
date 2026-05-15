@@ -48,9 +48,9 @@ const hammad = {
 
 ---
 
-## 🚀 Flagship Products
+## 🚀 Live Products
 
-> *Sourced from each project's actual README — what's shipped, what's running, what pays the bills.*
+> *Public products you can actually open and use today.*
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ const hammad = {
 
 `Next.js 15` · `TypeScript` · `Prisma + Postgres` · `Stripe` · `Gemini` · `Perplexity`
 
-🔗 [stackserp.com →](https://stackserp.com)
+🔗 **[stackserp.com →](https://stackserp.com)**
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@ const hammad = {
 
 `Next.js 16` · `TypeScript` · `Prisma + Postgres` · `NextAuth` · `Stripe Connect` · `Maileroo`
 
-🔗 [invoicecave.com →](https://invoicecave.com)
+🔗 **[invoicecave.com →](https://invoicecave.com)**
 
 </td>
 </tr>
@@ -83,25 +83,34 @@ const hammad = {
 
 `Next.js 15` · `TypeScript` · `Tailwind CSS`
 
-🔗 [skillmentor.pk →](https://skillmentor.pk)
+🔗 **[skillmentor.pk →](https://skillmentor.pk)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [SkillMentor Portal](https://skillmentor-portal.vercel.app)
-**Course-portal & marketing-funnel engine** powering SkillMentor.pk — multi-instructor access, lead capture, CSV export, enrollment & funnel tracking.
+### 🧵 [Shahzad Cloth House](https://shahzad-cloth-house.vercel.app)
+**Editorial heritage-brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography, heritage storytelling.
 
-`Next.js` · `TypeScript` · `Firebase` · `Stripe`
+`Next.js 16` · `TypeScript` · `Tailwind CSS`
 
-🔗 [Live demo →](https://skillmentor-portal.vercel.app)
+🔗 **[shahzad-cloth-house.vercel.app →](https://shahzad-cloth-house.vercel.app)**
 
 </td>
 </tr>
+</table>
+
+---
+
+## 🛠️ Built for Clients & Internal Tools
+
+> *Production code I've shipped — internal tools, client builds, and commercial plugins. Most live behind auth or are owned by clients, so no demo links here.*
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛒 Clover ↔ WooCommerce Integration
-**Production WordPress plugin** — bi-directional sync of products, inventory, orders, customers, taxes, modifiers, discounts. Webhooks, conflict resolution, background queue with retry logic for high-volume merchants.
+**Commercial WordPress plugin** — bi-directional sync of products, inventory, orders, customers, taxes, modifiers, discounts. Webhooks, conflict resolution, background queue with retry logic for high-volume merchants.
 
 `PHP 7.4+` · `WordPress 5.8+` · `WooCommerce 6.0+` · `Clover API`
 
@@ -110,12 +119,12 @@ const hammad = {
 </td>
 <td width="50%" valign="top">
 
-### 🎫 [TTG Portal](https://ttgportal.vercel.app)
-**Custom support-ticket system** — internal notes vs customer replies, automatic email notifications, time tracking, **PayPal billing links**, hourly + contract client management.
+### 🎫 TTG Portal
+**Custom support-ticket system** built for TTG — internal notes vs customer replies, automatic email notifications, time tracking, **PayPal billing links**, hourly + contract client management.
 
 `Next.js 15` · `TypeScript` · `Firebase Firestore` · `NextAuth` · `Resend`
 
-🔗 [Live demo →](https://ttgportal.vercel.app)
+🔒 Client-owned · private
 
 </td>
 </tr>
@@ -132,24 +141,24 @@ const hammad = {
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Hiring Admin](https://hiring-admin-zeta.vercel.app)
+### 🤖 Hiring Admin
 **Internal hiring pipeline for IWP** — companion to my `indeed-candidate-screen` Claude skill. Manages roles, candidates, audits, messages, events, interview scorecards. Two-step destructive-op confirmation.
 
 `Next.js 16` · `TypeScript` · `Drizzle ORM` · `Neon Postgres` · `Tailwind 4`
 
-🔗 [Live demo →](https://hiring-admin-zeta.vercel.app)
+🔒 Internal IWP tool
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [3loop.net](https://3loop.net)
-**WhatsApp-style project communication** — dual auth (team / client password), real-time chat with **Socket.io**, voice messages, image tagging, threaded replies, polls, todos, view-only mode, file sharing via Backblaze B2, PWA support.
+### 💬 3loop
+**WhatsApp-style project communication platform** — dual auth (team / client password), real-time chat with **Socket.io**, voice messages, image tagging, threaded replies, polls, todos, view-only mode, file sharing via Backblaze B2, PWA support.
 
 `Next.js` · `Express` · `MongoDB` · `Socket.io` · `Backblaze B2` · `Framer Motion`
 
-🔗 [3loop.net →](https://3loop.net)
+🔒 Client/team workspace
 
 </td>
 <td width="50%" valign="top">
@@ -166,12 +175,12 @@ const hammad = {
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ [IWP-CRM](https://iwp-crm.vercel.app)
+### 🗂️ IWP-CRM
 **Internal CRM for Innovation With Pixels** — Firebase auth with role-based access, time tracking with stats, **encrypted credential vault** (Web Crypto API), credential sharing with teams/individuals, CSV export, charts.
 
 `React 18` · `Vite` · `Firebase` · `Web Crypto API`
 
-🔗 [Live demo →](https://iwp-crm.vercel.app)
+🔒 Internal IWP tool
 
 </td>
 <td width="50%" valign="top">
@@ -188,28 +197,28 @@ const hammad = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 [UploadYourCarPics.com](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
-**Multi-tenant car-image upload** → Google Drive → GoHighLevel pipeline. White-label tool used by US auto dealerships to capture vehicle photos directly into their CRM.
+### 🎯 SkillMentor Portal
+**Course-portal & marketing-funnel engine** powering SkillMentor.pk — multi-instructor access, lead capture, CSV export, enrollment & funnel tracking.
 
-`Next.js` · `Drive API` · `GoHighLevel API`
+`Next.js` · `TypeScript` · `Firebase` · `Stripe`
 
-🔗 [Live demo →](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
+🔒 Internal portal · public face: **[skillmentor.pk](https://skillmentor.pk)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧵 [Shahzad Cloth House](https://shahzad-cloth-house.vercel.app)
-**Editorial heritage-brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography, brand storytelling.
+### 🚗 UploadYourCarPics.com
+**Multi-tenant car-image upload** → Google Drive → GoHighLevel pipeline. White-label tool used by US auto dealerships to capture vehicle photos directly into their CRM.
 
-`Next.js 16` · `TypeScript` · `Tailwind CSS`
+`Next.js` · `Drive API` · `GoHighLevel API`
 
-🔗 [Live demo →](https://shahzad-cloth-house.vercel.app)
+🔒 White-label dealer tool
 
 </td>
 </tr>
 </table>
 
-> **Also shipped & in production:** Florida Marine Hub (2,500+ marine listings, tiered subscriptions $20–$200/mo), Dukan AI (Gemini-powered AI Studio app), Robin Todos (priority board on Neon), Portfolio Tracker (Claude Code-driven), 250-America-Birthday Shopify Horizon theme, Instantly Replica, Car Offer Form WP plugin, WhatsApp Voice Transcriber, IWP SEO Reports, UK Property Finance Calculators 2026 — and ~60 more in private repos.
+> **Also shipped:** Florida Marine Hub (2,500+ marine listings, tiered subscriptions $20–$200/mo), Dukan AI (Gemini-powered AI Studio app), Robin Todos (priority board on Neon), Portfolio Tracker (Claude Code-driven), 250-America-Birthday Shopify Horizon theme, Car Offer Form WP plugin, WhatsApp Voice Transcriber, [IWP SEO Reports](https://iwp-seo-reports.vercel.app), [UK Property Finance Calculators 2026](https://github.com/HammadShahzad/UK-Property-Finance-Calculators-2026) — and ~60 more in private repos.
 
 ---
 

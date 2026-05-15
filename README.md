@@ -88,12 +88,56 @@ const hammad = {
 </td>
 <td width="50%" valign="top">
 
-### 🧵 [Shahzad Cloth House](https://shahzad-cloth-house.vercel.app)
+### 🎯 [SkillMentor Portal](https://portal.skillmentor.pk)
+**Course portal for SkillMentor.pk** — student dashboards, multi-instructor access, lead capture & funnel, CSV export, enrollment management, payment integration.
+
+`Next.js` · `TypeScript` · `Firebase` · `Stripe`
+
+🔗 **[portal.skillmentor.pk →](https://portal.skillmentor.pk)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧵 [Shahzad Cloth House](https://shahzadclothhouse.com)
 **Editorial heritage-brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography, heritage storytelling.
 
 `Next.js 16` · `TypeScript` · `Tailwind CSS`
 
-🔗 **[shahzad-cloth-house.vercel.app →](https://shahzad-cloth-house.vercel.app)**
+🔗 **[shahzadclothhouse.com →](https://shahzadclothhouse.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 👔 [SHA LIBAS](https://shalibas.com)
+**Premium men's unstitched fabric** in Pakistan — Cotton, Wash & Wear, and Grace at honest prices. Cash on Delivery nationwide. Editorial product storytelling, three-fabric catalog.
+
+`Next.js` · `TypeScript` · `Tailwind CSS`
+
+🔗 **[shalibas.com →](https://shalibas.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Cloverwoo](https://cloverwoo.com)
+**Clover POS ↔ WooCommerce plugin** — bidirectional sync of products, orders, inventory, customers, plus **Clover payments** and **auto-print to POS**. Webhooks, conflict resolution, retry queue for high-volume merchants.
+
+`PHP 7.4+` · `WordPress` · `WooCommerce` · `Clover API`
+
+🔗 **[cloverwoo.com →](https://cloverwoo.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
+**My software studio** — AI agents, SaaS, WordPress plugins, Shopify themes, CRMs, internal tooling. Lahore-based, shipping for clients across Pakistan, the US, the UK, and the Gulf.
+
+`Astro` · `Tailwind CSS` · `Vercel`
+
+🔗 **[innovationwithpixels.com →](https://innovationwithpixels.com)**
 
 </td>
 </tr>
@@ -103,20 +147,10 @@ const hammad = {
 
 ## 🛠️ Built for Clients & Internal Tools
 
-> *Production code I've shipped — internal tools, client builds, and commercial plugins. Most live behind auth or are owned by clients, so no demo links here.*
+> *Production code I've shipped — internal tools, client builds, and white-label products. Most live behind auth or are owned by clients, so no public demo links here.*
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 Clover ↔ WooCommerce Integration
-**Commercial WordPress plugin** — bi-directional sync of products, inventory, orders, customers, taxes, modifiers, discounts. Webhooks, conflict resolution, background queue with retry logic for high-volume merchants.
-
-`PHP 7.4+` · `WordPress 5.8+` · `WooCommerce 6.0+` · `Clover API`
-
-🔒 Closed-source · commercial plugin
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎫 TTG Portal
@@ -127,8 +161,6 @@ const hammad = {
 🔒 Client-owned · private
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👥 ZeroFrictionHire
@@ -139,6 +171,8 @@ const hammad = {
 🔒 Private build
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 Hiring Admin
@@ -149,8 +183,6 @@ const hammad = {
 🔒 Internal IWP tool
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 3loop
@@ -161,6 +193,8 @@ const hammad = {
 🔒 Client/team workspace
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔌 WP-Toolkit
@@ -171,8 +205,6 @@ const hammad = {
 🔒 Private — production-deployed
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ IWP-CRM
@@ -183,6 +215,8 @@ const hammad = {
 🔒 Internal IWP tool
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔄 AllMediaSync
@@ -191,18 +225,6 @@ const hammad = {
 `TypeScript` · `Slack API` · `ClickUp API` · `Dropbox API`
 
 🔒 Internal automation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 SkillMentor Portal
-**Course-portal & marketing-funnel engine** powering SkillMentor.pk — multi-instructor access, lead capture, CSV export, enrollment & funnel tracking.
-
-`Next.js` · `TypeScript` · `Firebase` · `Stripe`
-
-🔒 Internal portal · public face: **[skillmentor.pk](https://skillmentor.pk)**
 
 </td>
 <td width="50%" valign="top">

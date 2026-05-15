@@ -1,147 +1,331 @@
+<!--
+  Hammad Shahzad · Full-Stack Developer · TypeScript · Next.js · AI Automation Engineer
+  Founder of Innovation With Pixels — Lahore, Pakistan
+  https://github.com/HammadShahzad
+-->
+
+<a href="https://github.com/HammadShahzad">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hammad%20Shahzad&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Automation%20Engineer%20%C2%B7%20Founder&descSize=18&descAlignY=58&animation=fadeIn" alt="Hammad Shahzad — Full-Stack Developer · AI Automation Engineer · Founder" width="100%"/>
+</a>
+
 <div align="center">
 
-# Hammad Shahzad
-
-### Full-Stack Developer · TypeScript · Next.js · AI Automation Engineer
-
-Building AI agents, CRMs, and SaaS products from Lahore, Pakistan.
-Founder of [Innovation With Pixels](https://innovationwithpixels.com) — a digital agency turning ideas into shipped software.
+<a href="https://github.com/HammadShahzad">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PHP;AI+voice+agents+%C2%B7+chatbots+%C2%B7+CRMs+%C2%B7+SaaS+%C2%B7+WordPress+plugins;Founder+%40+Innovation+With+Pixels+%C2%B7+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;100%2B+products+shipped+%C2%B7+open+to+freelance+%26+partnerships." alt="Animated tagline" />
+</a>
 
 [![Website](https://img.shields.io/badge/Website-hammadshahzad.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hammadshahzad.com)
 [![Innovation With Pixels](https://img.shields.io/badge/Agency-Innovation_With_Pixels-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://innovationwithpixels.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadshahzad)
-[![Email](https://img.shields.io/badge/Email-hello@innovationwithpixels.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@innovationwithpixels.com)
+[![Email](https://img.shields.io/badge/hello@innovationwithpixels.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@innovationwithpixels.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/HammadShahzad?style=flat-square&label=Followers&color=58A6FF)
 ![Profile views](https://komarev.com/ghpvc/?username=HammadShahzad&color=58A6FF&style=flat-square&label=Profile+Views)
 ![Open to work](https://img.shields.io/badge/Open_to_work-Yes-3FB950?style=flat-square)
+![Based in](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-1F6FEB?style=flat-square)
+![Years coding](https://img.shields.io/badge/Years_coding-7%2B-9333EA?style=flat-square)
 
 </div>
 
 ---
 
-## About
+## ⚡ About
 
-I’m a full-stack developer specialising in **TypeScript**, **Next.js**, **React**, and **Node.js**, with a heavy focus on **AI automation** — voice agents, chatbots, RAG pipelines, and workflow orchestration with n8n, Make, and custom code.
+I'm a **full-stack developer** and the **founder of [Innovation With Pixels](https://innovationwithpixels.com)** — a software studio out of Lahore that ships AI agents, CRMs, plugins, and SaaS for clients across Pakistan, the US, the UK, and the Gulf. I live in TypeScript, Next.js, and Postgres, and I treat AI as a tool — not a demo.
 
-I run **Innovation With Pixels**, where my team and I ship production software for clients across Pakistan, the US, the UK, and the Gulf — CRMs, lead-gen funnels, e-commerce builds, WordPress plugins, AI assistants, and internal tools. The problems I enjoy solving are the messy ones: replacing manual workflows with reliable systems, integrating tools that weren’t designed to talk to each other, and turning ad-hoc spreadsheets into live, queryable software.
+The work I'm proud of replaces manual processes with reliable systems: a hiring pipeline that turns 200 résumés into a shortlist by lunch, a Clover↔WooCommerce sync that keeps two ledgers honest, voice agents that actually book the meeting. **No "look what AI can do" — just shipped systems that make money or save time.**
 
 ```ts
 const hammad = {
-  role:        "Full-Stack Developer & Founder",
-  basedIn:     "Lahore, Pakistan 🇵🇰",
-  stack:       ["TypeScript", "Next.js 16", "React 19", "Node.js", "PostgreSQL", "PHP"],
-  ai:          ["Claude", "GPT-4o/5", "Vapi", "Twilio Voice", "n8n", "LangChain"],
-  shipping:    ["AI agents", "CRMs", "SaaS", "WordPress plugins", "Shopify themes"],
-  brands:      ["Innovation With Pixels", "SkillMentor.pk", "MotorIQ Pro"],
-  openTo:      ["Freelance", "Agency partnerships", "Long-term contracts"],
+  role:     "Full-Stack Developer · Founder",
+  basedIn:  "Lahore, Pakistan 🇵🇰",
+  stack:    ["TypeScript", "Next.js 16", "React 19", "Node.js", "Postgres", "PHP"],
+  ai:       ["Claude", "GPT-4o/5", "Vapi", "Twilio", "n8n", "LangChain"],
+  ships:    ["AI agents", "CRMs", "SaaS", "WP plugins", "Shopify themes"],
+  brands:   ["Innovation With Pixels", "SkillMentor.pk", "MotorIQ Pro"],
+  motto:    "Shipping is the only metric that matters.",
 };
 ```
 
 ---
 
-## What I Build
+## 🚀 Flagship Products
 
-| Area | Examples |
-|------|----------|
-| 🤖 **AI Voice Agents** | Vapi + Twilio inbound/outbound calling for sales, support, and scheduling |
-| 💬 **Chatbots & Copilots** | Custom GPTs, WhatsApp bots, Discord bots, Botpress flows |
-| 🔄 **Automation** | n8n / Make.com pipelines for lead routing, CRM sync, data enrichment |
-| 🧰 **CRM & Internal Tools** | Next.js dashboards on Postgres / Firebase, GoHighLevel & HubSpot integrations |
-| 🛒 **E-commerce** | Shopify themes (Horizon), WooCommerce plugins, Clover POS integrations |
-| 🌐 **Web Platforms** | Marketing sites, SaaS products, multi-tenant portals on Vercel |
-| 🔍 **Data & Scraping** | Apify actors, Puppeteer scrapers, Google Maps lead extraction |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Stackserp](https://seo-blog-saas.vercel.app)
+**AI SEO content platform** — multi-website SEO blog generator powered by Gemini + Perplexity. Generates ranking-ready posts at scale, manages multiple sites from one dashboard.
+
+`Next.js` · `TypeScript` · `Gemini` · `Perplexity API`
+
+🔗 [Live demo →](https://seo-blog-saas.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [SkillMentor Portal](https://skillmentor-portal.vercel.app)
+**Course portal & learning platform** — full marketing funnel, multi-instructor access, lead capture with CSV export, payment integration. Powers SkillMentor.pk.
+
+`Next.js` · `TypeScript` · `Firebase` · `Stripe`
+
+🔗 [Live demo →](https://skillmentor-portal.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Clover ↔ WooCommerce Integration
+**Commercial WordPress plugin** — payment gateway, bi-directional inventory & order sync, webhooks, refunds. Production-deployed for Clover POS merchants.
+
+`PHP` · `WordPress` · `WooCommerce` · `Clover API`
+
+🔒 Closed-source · [Landing](https://cloverwoo-landing.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Hiring Admin](https://hiring-admin-zeta.vercel.app)
+**Internal hiring pipeline** for IWP — companion to my `indeed-candidate-screen` Claude skill. Triages 200+ applicants into STRONG / OK / WEAK / DISQUALIFIED.
+
+`Next.js` · `Neon Postgres` · `Drizzle` · `Claude API`
+
+🔗 [Live demo →](https://hiring-admin-zeta.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 InvoiceCave
+**Invoicing & books SaaS** — multi-currency invoices, recurring billing, client portal, PDF exports. Built for service businesses that hate QuickBooks.
+
+`Next.js` · `TypeScript` · `Postgres` · `Stripe`
+
+🔒 Private build
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Claivra
+**Creative agency platform** — built for Vehicquire Creatives to manage briefs, deliverables, and client approvals in one place.
+
+`Next.js 16` · `TypeScript` · `Tailwind`
+
+🔒 Private build
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ AI Tasker for Claude Code
+**Task management for AI-powered dev** — designed for engineers driving Claude Code. Tracks features, bugs, and prompts across long-running agent sessions.
+
+`Next.js` · `TypeScript` · `Claude SDK`
+
+🔒 Private build
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 WP-Toolkit
+**WordPress companion plugin** for the Claude Code `wp-toolkit` plugin — REST namespace `wp-toolkit/v1` + WP-CLI runner + auto-updates from GitHub releases.
+
+`PHP` · `WordPress` · `REST API` · `WP-CLI`
+
+🔒 Private build
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [IWP-CRM](https://iwp-crm.vercel.app)
+**Internal CRM** for Innovation With Pixels — employee time tracking, encrypted credential vault, team activity feed.
+
+`React` · `Vite` · `Firebase`
+
+🔗 [Live demo →](https://iwp-crm.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [3loop.net](https://3loop-net-f.vercel.app)
+**WhatsApp-style team comms** — real-time messaging for project teams with file sharing and threaded conversations.
+
+`Next.js` · `Express` · `MongoDB` · `Socket.io`
+
+🔗 [Live demo →](https://3loop-net-f.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 [TTG Portal](https://ttgportal.vercel.app)
+**Enterprise support ticket system** with full email pipeline, SLA tracking, and customer-facing portal.
+
+`Next.js` · `Firebase` · `TypeScript`
+
+🔗 [Live demo →](https://ttgportal.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ [Instantly Replica](https://instantly-replica.vercel.app)
+**Cold email outreach automation** — sequences, deliverability tracking, mailbox warm-up. An Instantly.ai alternative.
+
+`Next.js` · `TypeScript` · `Postgres`
+
+🔗 [Live demo →](https://instantly-replica.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 [UploadYourCarPics.com](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
+**Multi-tenant car image upload** → Google Drive → GoHighLevel pipeline. White-label tool used by US auto dealerships.
+
+`Next.js` · `Drive API` · `GHL API`
+
+🔗 [Live demo →](https://uploadyourcarpicscom-hammad-shahzads-projects.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧵 [Shahzad Cloth House](https://shahzad-cloth-house.vercel.app)
+**Heritage brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography.
+
+`Next.js 16` · `TypeScript` · `Tailwind`
+
+🔗 [Live demo →](https://shahzad-cloth-house.vercel.app)
+
+</td>
+</tr>
+</table>
+
+> Most client work lives in private repos — these are the ones I can show. Ask about the rest: voice agents, GHL integrations, Shopify Horizon themes, scrapers, and 50+ shipped builds.
 
 ---
 
-## Featured Projects
+## 🏢 Brands I Run
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| 🌐 [**Innovation With Pixels**](https://innovationwithpixels.com) | Agency site & service hub | Astro, Tailwind |
-| 📊 [**IWP SEO Reports**](https://iwp-seo-reports.vercel.app) | Hosted SEO audit reports for outreach | HTML, Vercel |
-| 🧵 [**Shahzad Cloth House**](https://shahzad-cloth-house.vercel.app) | Editorial heritage brand site (Sialkot, est. 1992) | Next.js 16, TypeScript |
-| 💬 [**3loop.net**](https://3loop-net-f.vercel.app) | WhatsApp-style team comms platform | Next.js, Express, MongoDB, Socket.io |
-| 🎫 [**TTG Portal**](https://ttgportal.vercel.app) | Enterprise support ticket system with email pipeline | Next.js, Firebase, TypeScript |
-| 🗂️ [**IWP-CRM**](https://iwp-crm.vercel.app) | Time tracking & encrypted credential vault | React, Vite, Firebase |
-| ✉️ [**Instantly Replica**](https://instantly-replica.vercel.app) | Email outreach automation tool | Next.js, TypeScript |
+<div align="center">
 
-> Most of my client work lives in private repos — these are the public showcase projects.
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
+**Software studio**
+AI agents · CRMs · SaaS · WordPress · Shopify
+Lahore → Worldwide
+
+</td>
+<td align="center" width="33%">
+
+### 🎓 SkillMentor.pk
+**Learning platform**
+Courses · multi-instructor portal · marketing funnels
+Pakistan-first, English-medium
+
+</td>
+<td align="center" width="33%">
+
+### 🚗 MotorIQ Pro
+**Automotive tech**
+Inventory tools · car-image pipelines · dealer software
+US auto-dealer focus
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages & Frameworks**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,php,nextjs,react,nodejs,astro,tailwind,bootstrap&perline=10)](https://skillicons.dev)
 
-**AI & Automation**
+**Backend, Databases & Infra**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis,prisma,vercel,cloudflare,docker,githubactions&perline=10)](https://skillicons.dev)
+
+**AI, Automation & Commerce**
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi_AI-5046E5?style=for-the-badge&logo=voiceflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5046E5?style=for-the-badge&logo=voiceflow&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Botpress](https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white)
-
-**Databases & Backend**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Platforms & DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=for-the-badge&logo=hubspot&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/HammadShahzad">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" alt="Hammad Shahzad GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HammadShahzad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&card_width=480&rank_icon=github" alt="Hammad Shahzad GitHub stats"/>
 </a>
 <a href="https://github.com/HammadShahzad">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadShahzad&layout=compact&hide_border=true&theme=react&langs_count=8" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadShahzad&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&card_width=320" alt="Top languages"/>
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=HammadShahzad&theme=react&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HammadShahzad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </a>
-
-<a href="https://github.com/HammadShahzad">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadShahzad&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-</a>
-
-**4,200+ contributions in the past year** · shipping is the only metric that matters.
 
 </div>
 
 ---
 
-## Contribution Snake
+## 🏆 Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=HammadShahzad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/HammadShahzad">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadShahzad&theme=tokyo-night&hide_border=true&area=true&custom_title=Hammad%27s%20Contribution%20Graph" alt="Activity graph" width="100%"/>
+</a>
+
+**4,200+ contributions in the past year** · 100+ products shipped · still building.
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -155,24 +339,38 @@ const hammad = {
 
 ---
 
-## Currently
+## 🎯 Currently
 
-- 🔭 Building AI-powered automation systems and SaaS products
-- 🎙️ Shipping voice agents (Vapi + Twilio) for sales & customer support
-- 🌱 Scaling **Innovation With Pixels** — hiring, training, productising
-- 💬 Open to **freelance projects, agency partnerships, and long-term contracts**
-
-## Get in Touch
-
-- 🌐 Website — [hammadshahzad.com](https://hammadshahzad.com)
-- 🏢 Agency — [innovationwithpixels.com](https://innovationwithpixels.com)
-- 💼 LinkedIn — [linkedin.com/in/hammadshahzad](https://linkedin.com/in/hammadshahzad)
-- ✉️ Email — [hello@innovationwithpixels.com](mailto:hello@innovationwithpixels.com)
-
-<div align="center">
+- 🔭 Building **AI voice agents** (Vapi + Twilio) for sales & support
+- 🚀 Scaling **Stackserp** — AI SEO content at scale
+- 🏗️ Productising **SkillMentor.pk** — Pakistan's next learning platform
+- 🌱 Hiring & training the **Innovation With Pixels** team
+- 💬 Open to **freelance · agency partnerships · long-term contracts**
 
 ---
 
-<sub>Full-stack developer · TypeScript · Next.js · React · Node.js · AI automation · Vapi · Twilio · n8n · WordPress · Shopify · based in Lahore, Pakistan · available for freelance and agency partnerships worldwide.</sub>
+## 🤝 Let's Build Something
+
+<div align="center">
+
+<a href="https://hammadshahzad.com"><img src="https://img.shields.io/badge/Website-hammadshahzad.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://innovationwithpixels.com"><img src="https://img.shields.io/badge/Agency-innovationwithpixels.com-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hammadshahzad"><img src="https://img.shields.io/badge/LinkedIn-Hammad_Shahzad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hello@innovationwithpixels.com"><img src="https://img.shields.io/badge/Email-hello@innovationwithpixels.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Shipping%20%E2%80%A2%20Building%20%E2%80%A2%20Compounding&fontColor=ffffff&fontSize=20&fontAlignY=72" width="100%" alt="footer"/>
 
 </div>
+
+<!--
+SEO keywords:
+Hammad Shahzad full-stack developer Lahore Pakistan, TypeScript developer Lahore,
+Next.js developer Pakistan, React developer hire, AI automation engineer,
+Vapi voice agent developer, Twilio integration, n8n automation expert,
+WordPress plugin developer, WooCommerce Clover integration, Shopify Horizon theme,
+GoHighLevel integration, Claude AI engineer, OpenAI integration, chatbot developer,
+SaaS developer Pakistan, freelance Next.js TypeScript, Innovation With Pixels,
+SkillMentor.pk, MotorIQ Pro, Stackserp, hiring automation, voice AI agent.
+-->

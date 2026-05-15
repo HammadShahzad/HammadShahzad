@@ -132,6 +132,28 @@ const hammad = {
 </td>
 <td width="50%" valign="top">
 
+### 👥 [ZeroFrictionHire](https://zerofrictionhire.com)
+**Talent-pool hiring platform** — post jobs, candidates apply with no signup, **AI CV parsing** (OpenAI / Claude), AI-driven candidate ranking against custom criteria, talent pool, bulk email campaigns, admin dashboard.
+
+`Next.js 14` · `TypeScript` · `MongoDB` · `NextAuth` · `OpenAI / Claude`
+
+🔗 **[zerofrictionhire.com →](https://zerofrictionhire.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍱 [Biteabyte](https://biteabyte.com)
+**Digital marketing & web design agency** — full-service: web design, SEO, social media marketing, sales funnels, automation. Recently acquired **Alchemative**, an e-commerce specialist.
+
+`Web Design` · `SEO` · `Paid Social` · `Funnels` · `Automation`
+
+🔗 **[biteabyte.com →](https://biteabyte.com)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
 **My software studio** — AI agents, SaaS, WordPress plugins, Shopify themes, CRMs, internal tooling. Lahore-based, shipping for clients across Pakistan, the US, the UK, and the Gulf.
 
@@ -163,18 +185,6 @@ const hammad = {
 </td>
 <td width="50%" valign="top">
 
-### 👥 ZeroFrictionHire
-**Talent-pool hiring platform** — post jobs, candidates apply with no signup, **AI CV parsing** (OpenAI / Claude), AI-driven candidate ranking against custom criteria, talent pool, bulk email campaigns, admin dashboard.
-
-`Next.js 14` · `TypeScript` · `MongoDB` · `NextAuth` · `OpenAI / Claude`
-
-🔒 Private build
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 Hiring Admin
 **Internal hiring pipeline for IWP** — companion to my `indeed-candidate-screen` Claude skill. Manages roles, candidates, audits, messages, events, interview scorecards. Two-step destructive-op confirmation.
 
@@ -183,6 +193,8 @@ const hammad = {
 🔒 Internal IWP tool
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 3loop
@@ -193,8 +205,6 @@ const hammad = {
 🔒 Client/team workspace
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔌 WP-Toolkit
@@ -205,6 +215,8 @@ const hammad = {
 🔒 Private — production-deployed
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ IWP-CRM
@@ -215,8 +227,6 @@ const hammad = {
 🔒 Internal IWP tool
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔄 AllMediaSync
@@ -227,6 +237,8 @@ const hammad = {
 🔒 Internal automation
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚗 UploadYourCarPics.com
@@ -237,10 +249,20 @@ const hammad = {
 🔒 White-label dealer tool
 
 </td>
+<td width="50%" valign="top">
+
+### 🌊 Florida Marine Hub
+**Florida marine-services directory** — 2,500+ business listings, smart search, online booking with 10% commission, tiered subscriptions ($20 / $150 / $200 per month), verified-business badges, full admin dashboard.
+
+`Next.js` · `MongoDB` · `Stripe`
+
+🔒 Private — previously deployed
+
+</td>
 </tr>
 </table>
 
-> **Also shipped:** Florida Marine Hub (2,500+ marine listings, tiered subscriptions $20–$200/mo), Dukan AI (Gemini-powered AI Studio app), Robin Todos (priority board on Neon), Portfolio Tracker (Claude Code-driven), 250-America-Birthday Shopify Horizon theme, Car Offer Form WP plugin, WhatsApp Voice Transcriber, [IWP SEO Reports](https://iwp-seo-reports.vercel.app), [UK Property Finance Calculators 2026](https://github.com/HammadShahzad/UK-Property-Finance-Calculators-2026) — and ~60 more in private repos.
+> **Also shipped:** Dukan AI (Gemini-powered AI Studio app), Robin Todos (priority board on Neon), Portfolio Tracker (Claude Code-driven), 250-America-Birthday Shopify Horizon theme, Car Offer Form WP plugin, WhatsApp Voice Transcriber, [IWP SEO Reports](https://iwp-seo-reports.vercel.app), [UK Property Finance Calculators 2026](https://github.com/HammadShahzad/UK-Property-Finance-Calculators-2026) — and ~60 more in private repos.
 
 ---
 
@@ -250,7 +272,7 @@ const hammad = {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
 **Software studio**
@@ -258,7 +280,15 @@ SaaS · AI agents · WordPress · Shopify · CRMs
 Lahore → Worldwide
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+### 🍱 [Biteabyte](https://biteabyte.com)
+**Digital marketing agency**
+Web design · SEO · paid social · funnels · automation
+Recently acquired Alchemative
+
+</td>
+<td align="center" width="25%">
 
 ### 🎓 [SkillMentor.pk](https://skillmentor.pk)
 **Tech training platform**
@@ -266,7 +296,7 @@ Practical courses · 1-on-1 mentoring
 Pakistan-first, English-medium
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🚗 MotorIQ Pro
 **Automotive tech**

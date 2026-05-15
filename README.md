@@ -100,6 +100,50 @@ const hammad = {
 <tr>
 <td width="50%" valign="top">
 
+### 🛒 [Cloverwoo](https://cloverwoo.com)
+**Clover POS ↔ WooCommerce plugin** — bidirectional sync of products, orders, inventory, customers, plus **Clover payments** and **auto-print to POS**. Webhooks, conflict resolution, retry queue for high-volume merchants.
+
+`PHP 7.4+` · `WordPress` · `WooCommerce` · `Clover API`
+
+🔗 **[cloverwoo.com →](https://cloverwoo.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
+**My software studio** — AI agents, SaaS, WordPress plugins, Shopify themes, CRMs, internal tooling. Lahore-based, shipping for clients across Pakistan, the US, the UK, and the Gulf.
+
+`Astro` · `Tailwind CSS` · `Vercel`
+
+🔗 **[innovationwithpixels.com →](https://innovationwithpixels.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 [ZeroFrictionHire](https://zerofrictionhire.com)
+**Talent-pool hiring platform** — post jobs, candidates apply with no signup, **AI CV parsing** (OpenAI / Claude), AI-driven candidate ranking against custom criteria, talent pool, bulk email campaigns, admin dashboard.
+
+`Next.js 14` · `TypeScript` · `MongoDB` · `NextAuth` · `OpenAI / Claude`
+
+🔗 **[zerofrictionhire.com →](https://zerofrictionhire.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🍱 [Biteabyte](https://biteabyte.com)
+**Digital marketing & web design agency** — full-service: web design, SEO, social media marketing, sales funnels, automation. Recently acquired **Alchemative**, an e-commerce specialist.
+
+`Web Design` · `SEO` · `Paid Social` · `Funnels` · `Automation`
+
+🔗 **[biteabyte.com →](https://biteabyte.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧵 [Shahzad Cloth House](https://shahzadclothhouse.com)
 **Editorial heritage-brand site** — fabric merchants since 1992, Kashmiri Mohalla, Sialkot. Editorial design, custom typography, heritage storytelling.
 
@@ -116,50 +160,6 @@ const hammad = {
 `Next.js` · `TypeScript` · `Tailwind CSS`
 
 🔗 **[shalibas.com →](https://shalibas.com)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Cloverwoo](https://cloverwoo.com)
-**Clover POS ↔ WooCommerce plugin** — bidirectional sync of products, orders, inventory, customers, plus **Clover payments** and **auto-print to POS**. Webhooks, conflict resolution, retry queue for high-volume merchants.
-
-`PHP 7.4+` · `WordPress` · `WooCommerce` · `Clover API`
-
-🔗 **[cloverwoo.com →](https://cloverwoo.com)**
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 [ZeroFrictionHire](https://zerofrictionhire.com)
-**Talent-pool hiring platform** — post jobs, candidates apply with no signup, **AI CV parsing** (OpenAI / Claude), AI-driven candidate ranking against custom criteria, talent pool, bulk email campaigns, admin dashboard.
-
-`Next.js 14` · `TypeScript` · `MongoDB` · `NextAuth` · `OpenAI / Claude`
-
-🔗 **[zerofrictionhire.com →](https://zerofrictionhire.com)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 [Biteabyte](https://biteabyte.com)
-**Digital marketing & web design agency** — full-service: web design, SEO, social media marketing, sales funnels, automation. Recently acquired **Alchemative**, an e-commerce specialist.
-
-`Web Design` · `SEO` · `Paid Social` · `Funnels` · `Automation`
-
-🔗 **[biteabyte.com →](https://biteabyte.com)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [Innovation With Pixels](https://innovationwithpixels.com)
-**My software studio** — AI agents, SaaS, WordPress plugins, Shopify themes, CRMs, internal tooling. Lahore-based, shipping for clients across Pakistan, the US, the UK, and the Gulf.
-
-`Astro` · `Tailwind CSS` · `Vercel`
-
-🔗 **[innovationwithpixels.com →](https://innovationwithpixels.com)**
 
 </td>
 </tr>
